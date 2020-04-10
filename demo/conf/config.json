@@ -1,0 +1,7 @@
+{
+  "mysql": {
+    "dbname": "smsService",
+    "user": "root",
+    "passwd": "hjh123"
+  }
+}
